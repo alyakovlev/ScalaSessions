@@ -1,0 +1,1 @@
+This a simple Scala Project, which I created when I studied Scala at work with my coleagues ( Our training course was based on Martin Odersky's course. You can find more about it here https://ru.coursera.org/course/progfun ). Here you can observe my solutions of some scala tasks from this course.
